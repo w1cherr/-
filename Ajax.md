@@ -1,8 +1,8 @@
 #Ajax
 ##XMLHttpRequest
 ##状态码说明
-![avatar](/Users/wakexbear/Documents/笔记/images/QQ20180328-165426.png)
-![avatar](/Users/wakexbear/Documents/笔记/images/QQ20180328-165703.png)
+![avatar](../images/QQ20180328-165426.png)
+![avatar](../images/QQ20180328-165703.png)
 
 ##跨域
 ###什么是跨域
