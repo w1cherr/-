@@ -47,7 +47,7 @@ typeof Person // function
 为了更加直观地了解 Person 的实质，可以将它在控制台打印出来，如下。
 
 
-![zxc](/Users/wakexbear/Documents/笔记/images/68503303-58a19aadbe1ee_articlex.jpeg)
+![zxc](/images/68503303-58a19aadbe1ee_articlex.jpeg)
 `Person` 的属性并不多，除去用 [[...]] 包起来的内置属性外，大部分属性根据名字就能明白它的作用。需要我们重点关注的是 `prototype`和` __proto__` 两个属性。
 
 (关于 __proto__ 可以在本文的姊妹篇 找到答案)
@@ -169,5 +169,5 @@ b1.speak();
 
 他们的关系如下图所示:
 
-![](/Users/wakexbear/Documents/笔记/images/bVCzB8.png)
+![](    /images/bVCzB8.png)
 
